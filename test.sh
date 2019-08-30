@@ -2,3 +2,9 @@
 
 echo "hello"
 echo "devops"
+
+cal
+
+date
+
+
