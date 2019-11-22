@@ -7,5 +7,5 @@ echo "hello"
 cal
 cal
 date
-
+date
 
