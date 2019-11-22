@@ -5,7 +5,7 @@ echo "devops"
 echo "hi"
 echo "hello"
 cal
-
+cal
 date
 
 
