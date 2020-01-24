@@ -4,6 +4,6 @@
 echo "hello"
 echo "hello"
 pwd
-date
+#date
 ls
 #
